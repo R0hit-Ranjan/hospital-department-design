@@ -67,3 +67,11 @@ font-size: 30px;
     
     background: linear-gradient(180deg, #99d0f1 5%, #f2f9fb 100%);
 }
+/*--------about us page css */
+.banner{
+    background-size: cover;
+    overflow: hidden;
+}
+.banner img{
+    width: 100%;
+}
